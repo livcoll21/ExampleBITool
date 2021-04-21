@@ -1,0 +1,29 @@
+C:\Users\michael.c5\Desktop\C#-BI\Business_Intelligence_Tool\Business_Intelligence_Tool\bin\Debug\Business_Intelligence_Tool.exe.config
+C:\Users\michael.c5\Desktop\C#-BI\Business_Intelligence_Tool\Business_Intelligence_Tool\bin\Debug\Business_Intelligence_Tool.exe
+C:\Users\michael.c5\Desktop\C#-BI\Business_Intelligence_Tool\Business_Intelligence_Tool\bin\Debug\Business_Intelligence_Tool.pdb
+C:\Users\michael.c5\Desktop\C#-BI\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.csprojResolveAssemblyReference.cache
+C:\Users\michael.c5\Desktop\C#-BI\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.Form1.resources
+C:\Users\michael.c5\Desktop\C#-BI\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.Properties.Resources.resources
+C:\Users\michael.c5\Desktop\C#-BI\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.csproj.GenerateResource.Cache
+C:\Users\michael.c5\Desktop\C#-BI\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.exe
+C:\Users\michael.c5\Desktop\C#-BI\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.pdb
+C:\Users\Senpai\Desktop\Unit 123\Business_Intelligence_Tool\Business_Intelligence_Tool\bin\Debug\Business_Intelligence_Tool.exe.config
+C:\Users\Senpai\Desktop\Unit 123\Business_Intelligence_Tool\Business_Intelligence_Tool\bin\Debug\Business_Intelligence_Tool.exe
+C:\Users\Senpai\Desktop\Unit 123\Business_Intelligence_Tool\Business_Intelligence_Tool\bin\Debug\Business_Intelligence_Tool.pdb
+C:\Users\Senpai\Desktop\Unit 123\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.csprojAssemblyReference.cache
+C:\Users\Senpai\Desktop\Unit 123\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.Form1.resources
+C:\Users\Senpai\Desktop\Unit 123\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.Properties.Resources.resources
+C:\Users\Senpai\Desktop\Unit 123\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.csproj.GenerateResource.cache
+C:\Users\Senpai\Desktop\Unit 123\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.csproj.CoreCompileInputs.cache
+C:\Users\Senpai\Desktop\Unit 123\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.exe
+C:\Users\Senpai\Desktop\Unit 123\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.pdb
+H:\Downloads\April2021\19April21\Business_Intelligence_Tool (1)\Business_Intelligence_Tool\Business_Intelligence_Tool\bin\Debug\Business_Intelligence_Tool.exe.config
+H:\Downloads\April2021\19April21\Business_Intelligence_Tool (1)\Business_Intelligence_Tool\Business_Intelligence_Tool\bin\Debug\Business_Intelligence_Tool.exe
+H:\Downloads\April2021\19April21\Business_Intelligence_Tool (1)\Business_Intelligence_Tool\Business_Intelligence_Tool\bin\Debug\Business_Intelligence_Tool.pdb
+H:\Downloads\April2021\19April21\Business_Intelligence_Tool (1)\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.csprojAssemblyReference.cache
+H:\Downloads\April2021\19April21\Business_Intelligence_Tool (1)\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.Form1.resources
+H:\Downloads\April2021\19April21\Business_Intelligence_Tool (1)\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.Properties.Resources.resources
+H:\Downloads\April2021\19April21\Business_Intelligence_Tool (1)\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.csproj.GenerateResource.cache
+H:\Downloads\April2021\19April21\Business_Intelligence_Tool (1)\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.csproj.CoreCompileInputs.cache
+H:\Downloads\April2021\19April21\Business_Intelligence_Tool (1)\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.exe
+H:\Downloads\April2021\19April21\Business_Intelligence_Tool (1)\Business_Intelligence_Tool\Business_Intelligence_Tool\obj\Debug\Business_Intelligence_Tool.pdb
